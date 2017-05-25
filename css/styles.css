@@ -1,0 +1,16 @@
+img {
+  margin: auto;
+}
+
+.profile {
+  display: block;
+  width: 18%;
+  margin: 2%;
+  padding: 2%;
+  background-color: grey;
+  float: left;
+}
+
+.profile h3 {
+  text-align: center;
+}
